@@ -1,5 +1,5 @@
 
-# Quiz Management System – MERN Stack
+# Quiz Management System
 
 A full-stack **Quiz Management System** developed using the MERN stack to simplify online quiz creation, management, participation, and performance evaluation. The application provides separate access for Admins and Students, ensuring secure authentication and role-based functionality.
 
